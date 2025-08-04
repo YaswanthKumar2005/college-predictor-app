@@ -58,3 +58,5 @@ For major changes, please open an issue first to discuss what you'd like to prop
 
 🙋‍♂️ Author
 Made with ❤️ by YaswanthKumar2005
+<!-- Google Site Verification -->
+google-site-verification: google60a3ad94f07699ca.html
