@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-
+st.text("google-site-verification: google60a3ad94f07699ca.html")
 # Read Excel file
 # IMPORTANT: It's better to use a relative path. Place the Excel file in the same folder as the script.
 try:
