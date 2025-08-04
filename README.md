@@ -28,7 +28,7 @@ PyMuPDF or pdfplumber – for PDF extraction (if used)
 🚀 Getting Started
 Clone the repository
 
-git clone https://github.com/your-username/eamcet-2025-college-predictor.git
+git clone https://github.com/YaswanthKumar2005/eamcet-2025-college-predictor.git
 cd eamcet-2025-college-predictor
 Install dependencies
 
