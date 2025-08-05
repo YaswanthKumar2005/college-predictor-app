@@ -56,6 +56,17 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 Feel free to fork the repository and submit a pull request.
 For major changes, please open an issue first to discuss what you'd like to propose.
 
+## 👥 Contributors
+
+This project is being actively developed and tested with the support of:
+
+- [Yaswanth Kumar](https://github.com/YaswanthKumar2005) (Developer)
+- [Ravi Chintapalli](https://github.com/Ravi-png119)
+- [Bindu Reddy](https://github.com/bindureddy_106)
+- [Chandra Mouli Sai](https://github.com/)
+- [Ganganapalli Akarsh](https://github.com/)
+
+
 🙋‍♂️ Author
 Made with ❤️ by YaswanthKumar2005
 <!-- Google Site Verification -->
