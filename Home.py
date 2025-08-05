@@ -1,6 +1,10 @@
 import pandas as pd
 import streamlit as st
-st.text("google-site-verification: eh014-cE05gLeX9mKDZUJryq4FIElEvAZBYnA6NEzR0")
+st.markdown("""
+    <meta name="google-site-verification" content="Your_Unique_Verification_String" />
+""", unsafe_allow_html=True)
+
+#st.text("google-site-verification: eh014-cE05gLeX9mKDZUJryq4FIElEvAZBYnA6NEzR0")
 # Read Excel file
 # IMPORTANT: It's better to use a relative path. Place the Excel file in the same folder as the script.
 try:
