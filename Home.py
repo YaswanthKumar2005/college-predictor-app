@@ -2,10 +2,7 @@ import pandas as pd
 import streamlit as st
 
 # Add Google Site Verification meta tag
-st.markdown(
-    '<meta name="google-site-verification" content="eh014-cE05gLeX9mKDZUJryq4FIElEvAZBYnA6NEzR0" />',
-    unsafe_allow_html=True
-)
+st.write("google-site-verification: eh014-cE05gLeX9mKDZUJryq4FIElEvAZBYnA6NEzR0")
 #st.text("google-site-verification: eh014-cE05gLeX9mKDZUJryq4FIElEvAZBYnA6NEzR0")
 # Read Excel file
 # IMPORTANT: It's better to use a relative path. Place the Excel file in the same folder as the script.
